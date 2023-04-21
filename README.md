@@ -20,7 +20,10 @@ This a complete study of a data analysis to analyze COVID-19 data for Brazil and
 
 * Click [here](https://youtu.be/6DQCzydiCQ8) to check the Animated Chart created in this study.
 * Infographic
-
+<p align="center">
+  <img src="covid19_infographic.png" height=550px>
+</p>
+<br/>
 
 ## Other Projects
 
