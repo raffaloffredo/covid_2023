@@ -14,7 +14,7 @@ This a complete study of a data analysis to analyze COVID-19 data for Brazil and
 
 * **[Code File](https://github.com/raffaloffredo/covid_2023/blob/main/%5BLoffredo_DS%5D_COVID_19_panorama_for_Brazil_and_the_world.ipynb)**
 * **[Full Article](https://medium.com/@loffredo.ds/data-science-applied-a-covid-19-study-on-brazil-and-the-world-8376407cc672)**
-* **[Summarized Article (Results)](https://medium.com/@loffredo.ds/data-science-applied-a-covid-19-study-on-brazil-and-the-world-8376407cc672)**
+* **[Summarized Article (Results)](https://www.linkedin.com/pulse/updated-study-covid-19-brazil-worldwide-raffaela-loffredo)**
 <br/>
 
 ## Additional Material 
@@ -34,7 +34,7 @@ Exploratory Data Analysis
 
  ## Let's Connect
 <div>
-  <a href="https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raffaela-loffredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://sites.google.com/view/loffredo/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href = "mailto:raffaloffredo@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/loffredo.ds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
