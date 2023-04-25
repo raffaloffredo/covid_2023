@@ -1,6 +1,6 @@
 # An updated study of COVID-19 in Brazil and the world
 
-<img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png"> _Clique [aqui](https://github.com/raffaloffredo/airbnb_new_york_portuguese) para Português-BR_   
+<img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png"> _Clique [aqui](https://github.com/raffaloffredo/covid_2023_portuguese) para Português-BR_   
 <br/>
 
 <p align="center">
@@ -13,7 +13,8 @@ This a complete study of a data analysis to analyze COVID-19 data for Brazil and
 
 
 * **[Code File](https://github.com/raffaloffredo/covid_2023/blob/main/%5BLoffredo_DS%5D_COVID_19_panorama_for_Brazil_and_the_world.ipynb)**
-* **[Article](https://www.linkedin.com/pulse/airbnb-data-analysis-new-york-city-raffaela-loffredo/)**
+* **[Full Article](https://medium.com/@loffredo.ds/data-science-applied-a-covid-19-study-on-brazil-and-the-world-8376407cc672)**
+* **[Summarized Article (Results)](https://medium.com/@loffredo.ds/data-science-applied-a-covid-19-study-on-brazil-and-the-world-8376407cc672)**
 <br/>
 
 ## Additional Material 
